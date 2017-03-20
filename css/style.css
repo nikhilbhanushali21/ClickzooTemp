@@ -1,0 +1,69 @@
+
+
+#bs-example-navbar-collapse-1 > ul > li > a:hover{
+    color: #72c04a;
+}
+#bs-example-navbar-collapse-1 > ul{
+    display: inline-block;
+    font: 17px/34px 'Raleway Medium', sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    margin: 0 20px;
+    height: 34px;
+    white-space: nowrap;
+    -moz-text-shadow: 1px 1px 1px #000;
+    -webkit-text-shadow: 1px 1px 1px #000;
+    text-shadow: 1px 1px 1px #000;
+
+}
+
+#mainNav > div > div.navbar-header.page-scroll > a > img{
+    width: 160px;
+    height: 30px;
+    float: left;
+}
+
+#page-top > header > div > div > a{
+    background-color: #72c04a;
+}
+
+#page-top > header > div > div > h1{
+    font-size: 72px;
+    line-height: 72px;
+    font-family: 'Pacifico', cursive;
+    text-transform: none;
+}
+
+#page-top > header > div > div > h1 span{
+    color: #72c04a;
+    text-transform: none;
+}
+
+#page-top > header > div > div > h2{
+    color: white;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: 'Raleway Medium', sans-serif;
+    text-transform: none;
+}
+
+#page-top > header{
+    background-image: url(../img/yosemite.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+
+#page-top > header > div > div{
+    padding-top: 220px;
+}
+
+#services{
+    background: #2fbcba;
+}
